@@ -9,7 +9,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="bg-gray-800 py-4 shadow-md sticky top-0 z-10">
+    <header className="bg-gradient-to-r from-gray-900 to-purple-900 py-4 shadow-md sticky top-0 z-10">
       <div className="container mx-auto px-4 flex items-center justify-between">
         <div className="flex items-center">
           <img src="./EvilXlogo.png" className="w-auto h-8 sm:h-12 mr-2" alt="EvilX Logo" />

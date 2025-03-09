@@ -4,7 +4,8 @@
     "title": "Electric Charge Adventure",
     "tag": "NEW",
     "image": "/images/ChargeArt.png",
-    "link": "https://electric-field-adventure-game.vercel.app/"
+    "link": "https://electric-field-adventure-game.vercel.app/",
+    "type": "web"
   },
   {
     "id": 2,
@@ -12,7 +13,7 @@
     "image": "/images/flappygojo.png",
     "tag": "UPDATED",
     "tagColor": "bg-red-500",
-    "link": "https://www.roblox.com/games/93788950340974/",
+    "link": "https://flappy-gojo-game.vercel.app/",
     "type": "web"
   },
   {
@@ -21,14 +22,14 @@
     "image": "/images/icanDodge.png",
     "tag": "UPDATED",
     "tagColor": "bg-green-500",
-    "link": "https://www.roblox.com/games/93788950340974/",
+    "link": "/",
     "type": "android"
   },
   {
     "id": 3,
     "title": "The Babysitter",
     "image": "/images/theBabysitter.png",
-    "link": "https://www.roblox.com/games/93788950340974/",
+    "link": "/",
     "type": "roblox",
     "tag": "Coming Soon"
   },
@@ -38,14 +39,14 @@
     "image": "/images/SoulBounded.jpg",
     "tag": "Coming Soon",
     "tagColor": "bg-green-500",
-    "link": "https://www.roblox.com/games/93788950340974/",
+    "link": "/",
     "type": "roblox"
   },
   {
     "id": 5,
     "title": "Arena Wars",
     "image": "/images/Arena.png",
-    "link": "https://www.roblox.com/games/93788950340974/",
+    "link": "/",
     "type": "roblox"
   },
   {

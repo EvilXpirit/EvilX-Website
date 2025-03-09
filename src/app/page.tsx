@@ -9,6 +9,7 @@ export default function Home() {
   // Use the imported games data
   const carouselGames: Game[] = gamesData;
   const robloxGames: Game[] = gamesData.filter(game => game.type === 'roblox');
+  const webGames: Game[] = gamesData.filter(game => game.type === 'web');
 
   return (
     <main className="min-h-screen bg-gray-900 text-white bg-cover bg-center bg-fixed relative" style={{ backgroundImage: "url('background.gif')" }}>
@@ -26,6 +27,10 @@ export default function Home() {
         <div className="container mx-auto px-4 py-8">
           <h2 className="text-2xl font-bold mb-6">New Games</h2>
           <GameCarousel games={robloxGames} />
+        </div>
+        <div className="container mx-auto px-4 py-8">
+          <h2 className="text-2xl font-bold mb-6">Web Games</h2>
+          <GameCarousel games={webGames} />
         </div>
       <Footer />
       </div>
