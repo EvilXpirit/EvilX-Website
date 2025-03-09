@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-bold mb-4">About EvilX</h3>
             <p className="text-gray-300 text-sm mb-4">
               EvilX is your ultimate destination for fun, free browser games.
-              Whether you're after casual play or a challenge, our wide range of
+              Whether you&apos;re after casual play or a challenge, our wide range of
               games offers something for everyone. Dive in and enjoy endless
               hours of entertainment, all in your browser!
             </p>
