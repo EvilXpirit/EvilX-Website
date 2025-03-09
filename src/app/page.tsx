@@ -1,6 +1,7 @@
 import Header from '../components/Header';
 import Banner from '../components/Banner';
 import GameCarousel from '../components/GameCarousel';
+import Footer from "../components/Footer";
 import { Game } from '../types';
 import gamesData from '../data/games.json';
 
@@ -26,6 +27,7 @@ export default function Home() {
           <h2 className="text-2xl font-bold mb-6">New Games</h2>
           <GameCarousel games={robloxGames} />
         </div>
+      <Footer />
       </div>
     </main>
   );
