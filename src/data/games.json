@@ -7,35 +7,36 @@
     "link": "https://electric-field-adventure-game.vercel.app/"
   },
   {
+    "id": 2,
+    "title": "Flappy Gojo",
+    "image": "/images/flappygojo.png",
+    "tag": "UPDATED",
+    "tagColor": "bg-red-500",
+    "link": "https://www.roblox.com/games/93788950340974/",
+    "type": "web"
+  },
+  {
     "id": 4,
     "title": "iCan Dodge",
-    "image": "/images/Crazy-Cold-Cruise.png",
+    "image": "/images/icanDodge.png",
     "tag": "UPDATED",
     "tagColor": "bg-green-500",
     "link": "https://www.roblox.com/games/93788950340974/",
     "type": "android"
   },
   {
-    "id": 2,
-    "title": "Flappy Gojo",
-    "image": "/images/Cropzilla.png",
-    "tag": "NEW",
-    "tagColor": "bg-red-500",
-    "link": "https://www.roblox.com/games/93788950340974/",
-    "type": "web"
-  },
-  {
     "id": 3,
-    "title": "Light Up",
-    "image": "/images/LightUp.png",
+    "title": "The Babysitter",
+    "image": "/images/theBabysitter.png",
     "link": "https://www.roblox.com/games/93788950340974/",
-    "type": "roblox"
+    "type": "roblox",
+    "tag": "Coming Soon"
   },
   {
     "id": 4,
-    "title": "Crazy Cold Cruise",
-    "image": "/images/Crazy-Cold-Cruise.png",
-    "tag": "UPDATED",
+    "title": "Soul Bounded",
+    "image": "/images/SoulBounded.jpg",
+    "tag": "Coming Soon",
     "tagColor": "bg-green-500",
     "link": "https://www.roblox.com/games/93788950340974/",
     "type": "roblox"
