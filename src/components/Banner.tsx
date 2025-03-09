@@ -2,7 +2,8 @@ import React from "react";
 
 const Banner: React.FC = () => {
   return (
-    <div className="relative bg-gradient-to-r from-purple-900 to-blue-900 h-96 sm:h-80 md:h-118">
+    <div className="relative bg-gradient-to-r from-purple-900 to-blue-900 h-96 sm:h-80 md:h-118 shadow-[0_0_30px_4px_rgba(255,255,255,0.4)]">
+      {/* 0 0 30px 4px: This part defines the horizontal and vertical offsets (0 for both), the blur radius (30px), and the spread radius (4px) */}
       <img
         src="/BannerPoster.png"
         alt="Background"

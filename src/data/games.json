@@ -8,21 +8,21 @@
   },
   {
     "id": 4,
-    "title": "Crazy Cold Cruise",
+    "title": "iCan Dodge",
     "image": "/images/Crazy-Cold-Cruise.png",
     "tag": "UPDATED",
     "tagColor": "bg-green-500",
     "link": "https://www.roblox.com/games/93788950340974/",
-    "type": "roblox"
+    "type": "android"
   },
   {
     "id": 2,
-    "title": "CropZilla",
+    "title": "Flappy Gojo",
     "image": "/images/Cropzilla.png",
     "tag": "NEW",
     "tagColor": "bg-red-500",
     "link": "https://www.roblox.com/games/93788950340974/",
-    "type": "roblox"
+    "type": "web"
   },
   {
     "id": 3,
