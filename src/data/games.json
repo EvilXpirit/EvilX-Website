@@ -21,7 +21,7 @@
     "title": "iCan Dodge",
     "image": "/images/icanDodge.png",
     "tag": "UPDATED",
-    "tagColor": "bg-green-500",
+    "tagColor": "bg-green-500",     
     "link": "/",
     "type": "android"
   },
@@ -76,5 +76,13 @@
     "image": "/images/rally-dirt.jpg",
     "link": "/games/rally-dirt",
     "type": "roblox"
+  },
+    {
+    "id": 10,
+    "title": "Neon Snakey Boi",
+    "image": "/images/SnakeyBoi.jpeg",
+    "link": "https://neon-snakey-boi.vercel.app/",
+    "type": "web",  
+    "tag": "New" 
   }
 ]
